@@ -582,6 +582,10 @@ gmp-map {
 @media screen and (max-width: 730px) {
 
 /* Header */
+.icon-menu {
+  width: 40px;
+  border: none;
+}
 .icons-mobile {
  display: flex ;
  margin-top: 20px;

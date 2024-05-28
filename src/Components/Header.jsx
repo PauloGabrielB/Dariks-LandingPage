@@ -1,6 +1,5 @@
 import menu from '../Img/menu.svg';
-import menuIcon from '/src/img/menu.svg';
-import closeMenu from '../Img/close.svg';
+import closeMenu from '../Img/close.png';
 import logo from '../img/logo.png';
 import React, { useState } from 'react';
 import { FaInstagram } from "react-icons/fa";
@@ -52,7 +51,5 @@ export default function Header() {
 </header>
       </section>
       
-
-
     )
   }
