@@ -665,7 +665,7 @@ margin-left: 40px;
 }
 .mobile-menu-icon {
     display: block;
-    margin-top: 5px; /* Adicione margem superior para separar do logo */
+    margin-top: 0px; /* Adicione margem superior para separar do logo */
 }
 .mobile-menu-icon button {
     background-color: transparent;
@@ -673,7 +673,7 @@ margin-left: 40px;
     cursor: pointer;
     background: #2b4132;
     border-radius: 5px;
-    padding-top: 2px;
+    padding-top: 0px;
     height: 40px;
     box-shadow: 0 8px 28px rgba(0, 0, 0, 0.863); /* Sombra mais profunda */
 }
