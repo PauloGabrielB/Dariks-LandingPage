@@ -1,6 +1,5 @@
 import menu from '../Img/menu.svg';
 import closeMenu from '../Img/close.png';
-import logo from '../img/logo.png';
 import React, { useState } from 'react';
 import { FaInstagram } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa";
@@ -20,7 +19,6 @@ export default function Header() {
 <header>
   <nav className='nav-bar'>
     <div className='logo-div'>
-        {/* <img className='logo' src={logo} alt="" /> */}
        
     </div>
 
